@@ -1,4 +1,4 @@
-# 游戏汉化 · 字库问题评审包（两份）
+# 游戏汉化 · 字库问题评审包（三份）
 
 单文件静态页（图片 base64 内嵌），供评审 agent / 工程师浏览：
 
@@ -6,6 +6,7 @@
 |---|---|---|
 | 🎮 Wii《哆啦A梦 秘密道具王决定战》(REMJ8P)：页 4-7 缺字 / 字形大小不一 | https://wei134102.github.io/doraemon-font-review/ | [index.html](index.html) |
 | 🎮 N64《StarCraft 64》：汉化字库/引擎问题完整诊断（2-hook 引擎现状 / CHK 引用链审计 / 三套引擎方案实测对比 / 外部独立分析对照；旧版备份 [n64/index0.html](n64/index0.html)） | https://wei134102.github.io/doraemon-font-review/n64/ | [n64/index.html](n64/index.html) |
+| 🎮 PS3《Anarchy Reigns 疯狂乱世》(BLES01232 欧版)：RPCS3 简体中文汉化 — 技术总结与交接（12 章：文件格式逆向 / 尺寸约束模型 / 已确证根因 P1-P8 / v2.27 构建方案 / 陷阱与回退链） | https://wei134102.github.io/doraemon-font-review/ps3/ | [ps3/index.html](ps3/index.html) |
 
 ## Wii 报告内容速览
 
