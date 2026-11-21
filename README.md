@@ -5,7 +5,7 @@
 | 报告 | 在线地址 | 本仓库路径 |
 |---|---|---|
 | 🎮 Wii《哆啦A梦 秘密道具王决定战》(REMJ8P)：页 4-7 缺字 / 字形大小不一 | https://wei134102.github.io/doraemon-font-review/ | [index.html](index.html) |
-| 🎮 N64《StarCraft 64》：字库扩容与汉化诊断（三套引擎改造方案实测对比） | https://wei134102.github.io/doraemon-font-review/n64/ | [n64/index.html](n64/index.html) |
+| 🎮 N64《StarCraft 64》：汉化字库/引擎问题完整诊断（2-hook 引擎现状 / CHK 引用链审计 / 三套引擎方案实测对比 / 外部独立分析对照；旧版备份 [n64/index0.html](n64/index0.html)） | https://wei134102.github.io/doraemon-font-review/n64/ | [n64/index.html](n64/index.html) |
 
 ## Wii 报告内容速览
 
